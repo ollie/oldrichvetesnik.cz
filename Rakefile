@@ -1,6 +1,5 @@
 require 'rake/clean'
-require_relative 'deploy.rb'
-
+require_relative 'deploy.rb' if File.exist? 'deploy.rb'
 
 CLOBBER.include Dir['_site']
 
