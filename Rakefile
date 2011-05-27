@@ -12,5 +12,5 @@ end
 
 desc 'Clobber and server.'
 task :s => :clobber do
-	sh 'jekyll --server'
+	sh 'jekyll --server --auto'
 end
