@@ -1,0 +1,24 @@
+html		{ padding: 50px; }
+
+.dataTables_filter,
+.dataTables_info,
+.dataTables_paginate					{ margin: 1em 0; }
+
+.dataTables_info,
+.dataTables_filter					{ float: left; }
+
+.column-toggler,
+.dataTables_paginate					{ float: right; }
+
+.paginate_disabled_previous,
+.paginate_enabled_previous,
+.paginate_disabled_next,
+.paginate_enabled_next						{ height: 19px; width: 19px; margin-left: 3px; float: left; }
+
+.paginate_disabled_previous	{ background-image: url(../images/back_disabled.jpg); }
+.paginate_enabled_previous		{ background-image: url(../images/back_enabled.jpg); }
+.paginate_disabled_next			{ background-image: url(../images/forward_disabled.jpg); }
+.paginate_enabled_next			{ background-image: url(../images/forward_enabled.jpg); }
+
+.clear								{ clear: both; }
+

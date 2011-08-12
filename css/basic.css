@@ -1,11 +1,42 @@
-html			{ font: 14px/1.5em Arial, Helvetica, sans-serif; }
+/* line 1, ../_sass/basic.scss */
+html {
+  font: 14px/1.5em Arial, Helvetica, sans-serif;
+}
 
-table			{ clear: both; width: 100%; border-collapse: collapse; font-size: 12px; }
+/* line 3, ../_sass/basic.scss */
+table {
+  clear: both;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+/* line 5, ../_sass/basic.scss */
 th,
-td				{ padding: 3px 10px; border: solid 1px #eee; }
-th				{ background: #eee; border-color: #ddd; text-align: left; }
-tr.even		{ background: #f8f8f8; }
+td {
+  padding: 3px 10px;
+  border: solid 1px #eee;
+}
 
-tr:hover		{ background: #ffffe0; }
+/* line 6, ../_sass/basic.scss */
+th {
+  background: #eee;
+  border-color: #ddd;
+  text-align: left;
+}
 
-h1				{ margin: 0 0 14px; font-size: 24px; }
+/* line 7, ../_sass/basic.scss */
+tr.even {
+  background: #f8f8f8;
+}
+
+/* line 9, ../_sass/basic.scss */
+tr:hover {
+  background: #ffffe0;
+}
+
+/* line 11, ../_sass/basic.scss */
+h1 {
+  margin: 0 0 14px;
+  font-size: 24px;
+}
