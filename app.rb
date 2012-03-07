@@ -6,6 +6,7 @@ require 'pry'
 require './partials'
 require './core_ext'
 
+set :protection, :except => :frame_options # Turn off the X-Frame-Options header to be able to display iframe contents
 set :haml, :format => :html5
 
 helpers do
