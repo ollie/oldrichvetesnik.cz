@@ -1,0 +1,16 @@
+!!! 5
+%html{ :lang => 'cs' }
+  %head
+    %meta{ :charset => 'utf-8' }
+    %title Oldřich Vetešník
+    %link{ :rel => 'stylesheet', :href => '/stylesheets/basic.css' }
+    %link{ :rel => 'stylesheet', :href => '/stylesheets/fluid-grid-system-12.css' }
+    %link{ :rel => 'stylesheet', :href => '/stylesheets/layout.css' }
+  %body
+    .layout-wrapper.container.container_12
+      = yield
+      = partial 'application/github'
+
+  %script{ :src => '/javascripts/jquery-1.7.1.min.js' }
+  %script{ :src => '/javascripts/jquery.github.js' }
+  %script{ :src => '/javascripts/application.js' }

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* line 4, ../../scss/basic.scss */
+html {
+  font: 0.875em/1.5em Helvetica, Arial, Freesans, Clean, sans-serif;
+}
+
+/* line 6, ../../scss/basic.scss */
+h1 {
+  margin: 0 0 0.5em;
+  font-size: 2em;
+  color: #444;
+  line-height: normal;
+  font-weight: normal;
+}
+
+/* line 8, ../../scss/basic.scss */
+h2 {
+  margin: 1em 0 0.583em;
+  font-size: 1.714em;
+  font-weight: normal;
+}
+
+/* line 9, ../../scss/basic.scss */
+h3, h4, h5, h6 {
+  margin: 1.333em 0 0.778em;
+  font-size: 1.286em;
+}
+
+/* line 11, ../../scss/basic.scss */
+p, ul, ol, dl, pre {
+  margin: 1em 0;
+}
+
+/* line 13, ../../scss/basic.scss */
+ul {
+  padding: 0;
+  list-style: none;
+}
+/* line 15, ../../scss/basic.scss */
+ul li {
+  padding-left: 1.5em;
+  background: url(/images/gfx/list-item.gif) 0.357em 0.429em no-repeat;
+}
+
+/* line 17, ../../scss/basic.scss */
+ol {
+  margin-left: 2.5em;
+  padding: 0;
+}
+
+/* line 19, ../../scss/basic.scss */
+a {
+  color: blue;
+}
+
+/* line 23, ../../scss/basic.scss */
+q:lang(cs) {
+  quotes: '„' '“' '‚' '‘';
+}
+
+/* line 24, ../../scss/basic.scss */
+hr {
+  height: 1px;
+  margin: 2em 0;
+  border: none;
+  color: #dadada;
+  background: #dadada;
+}
+
+/* line 25, ../../scss/basic.scss */
+.clear {
+  clear: both;
+}
