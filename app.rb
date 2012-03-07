@@ -13,6 +13,10 @@ helpers do
   include Sinatra::Partials
 end
 
+def current_env
+  ENV['RACK_ENV']
+end
+
 # def basic_haml(template, options = {})
 #   haml template, options.merge(:layout => :'basic_layout')
 # end
