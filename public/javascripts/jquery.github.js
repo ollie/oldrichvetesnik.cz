@@ -6,7 +6,13 @@
     container.hide();
 
     // Then update it with loading message.
-    container.html('<p class="loading"><img src="/images/ajax-loader.gif" alt=""> ' + container.attr('data-message-loading') + '</p>');
+    var message = '';
+    message += '<div class="grid grid_12">';
+    message += '<div class="content">';
+    message += '<p class="loading"><img src="/images/ajax-loader.gif" alt=""> <span>' + container.attr('data-message-loading') + '</span></p>';
+    message += '</div>';
+    message += '</div>';
+    container.html(message);
 
     // Let's show it! But start loading after the container is done fading in.
     container.fadeIn(function() {

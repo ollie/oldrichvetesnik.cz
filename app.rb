@@ -4,6 +4,7 @@ require 'httparty'
 require 'json'
 require 'pry'
 require './partials'
+require './core_ext'
 
 set :haml, :format => :html5
 
@@ -28,7 +29,7 @@ get '/github-repositories' do
     tmp[:html_url]  = item['html_url']
     tmp[:pushed_at] = DateTime.parse item['pushed_at']
     tmp
-  end.sort! { |repo_a, repo_b| repo_b[:pushed_at] <=> repo_a[:pushed_at] }
+  end.sort! { |repo_a, repo_b| repo_b[:pushed_at] <=> repo_a[:pushed_at] }.slice_in(3)
 
   haml :github_repositories, :layout => false
 end

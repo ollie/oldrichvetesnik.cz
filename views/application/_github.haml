@@ -1,10 +1,11 @@
-.grid.grid_12
-  .content
-    %h2
-      My repositories on
-      %a{ :href => 'https://github.com/ollie' } GitHub
+.stripe
+  .width.container.container_12
+    .grid.grid_12
+      .content
+        %h2
+          My repositories on
+          %a{ :href => 'https://github.com/ollie' } GitHub
+          %small (ordered by modification date)
     #github{ :'data-message-loading' => 'Loading repositories&hellip;',
       :'data-message-error' => 'Sorry, service seems to be unavailable. :(' }
-      %p.loading
-        %img{ :src => '/images/ajax-loader.gif', :alt => '' }
-        Loading repositories&hellip;
+    .clear

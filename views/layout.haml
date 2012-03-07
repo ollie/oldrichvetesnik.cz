@@ -7,10 +7,10 @@
     %link{ :rel => 'stylesheet', :href => '/stylesheets/fluid-grid-system-12.css' }
     %link{ :rel => 'stylesheet', :href => '/stylesheets/layout.css' }
   %body
-    .layout-wrapper.container.container_12
-      = yield
-      = partial 'application/github'
+    = yield
+    = partial 'application/github'
+    = partial 'application/footer'
 
-  %script{ :src => '/javascripts/jquery-1.7.1.min.js' }
-  %script{ :src => '/javascripts/jquery.github.js' }
-  %script{ :src => '/javascripts/application.js' }
+    %script{ :src => '/javascripts/jquery-1.7.1.min.js' }
+    %script{ :src => '/javascripts/jquery.github.js' }
+    %script{ :src => '/javascripts/application.js' }

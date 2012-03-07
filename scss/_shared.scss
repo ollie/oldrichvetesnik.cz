@@ -1,7 +1,8 @@
 // 1 tab = 4 spaces
 // Global font-size, set only once.
-$fsz: 14px; // = 0.875em
-$family: Helvetica, Arial, Freesans, Clean, sans-serif;
+$fsz: 16px; // = 1em
+$family2: "Helvetica Neue", Helvetica, Arial, Freesans, Clean, sans-serif;
+$family: Georgia, "Times New Roman", Times, serif;
 
 // Calculate the em size dynamically. If your global font-size is 12px but local font-size is 16px (= 1em)
 // and you want 24px for margin, you can't simply write 2em, that would be 32px! What you need is (24px / 16px)em.

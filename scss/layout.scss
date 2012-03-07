@@ -1,3 +1,13 @@
 html, body						{ margin: 0; padding: 0; }
 
-.layout-wrapper					{ width: 80%; margin: 0 auto; padding: 30px 0; }
+.stripe							{ padding: 2em 0; }
+.stripe:nth-of-type(2n)			{ background: #eee; }
+.stripe:first-of-type			{ padding-top: 4em; }
+.stripe:last-of-type			{ padding-bottom: 4em; }
+
+.width							{ width: 80%; margin: 0 auto; }
+
+.loading {
+	img							{ margin-right: 5px; vertical-align: top; }
+	span						{ vertical-align: middle; }
+}
