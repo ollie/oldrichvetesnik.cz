@@ -39,3 +39,15 @@ html, body {
 .loading span {
   vertical-align: middle;
 }
+
+/* line 15, ../../scss/layout.scss */
+.gravatar img {
+  margin-left: 4px;
+}
+
+@media only screen and (max-width: 767px) {
+  /* line 19, ../../scss/layout.scss */
+  .container_12 .grid_4 {
+    width: 100%;
+  }
+}

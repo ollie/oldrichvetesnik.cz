@@ -3,8 +3,8 @@ require 'haml'
 require 'httparty'
 require 'json'
 require 'pry'
-require './partials'
-require './core_ext'
+require './lib/partials'
+require './lib/core_ext'
 
 set :protection, :except => :frame_options # Turn off the X-Frame-Options header to be able to display iframe contents
 set :haml, :format => :html5
@@ -18,6 +18,7 @@ end
 # end
 
 get '/' do
+  @year = Time.now.year
   haml :index
 end
 
