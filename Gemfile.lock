@@ -9,7 +9,12 @@ GEM
       sass (~> 3.1)
     fssm (0.2.8.1)
     haml (3.1.4)
+    httparty (0.8.1)
+      multi_json
+      multi_xml
     method_source (0.7.1)
+    multi_json (1.1.0)
+    multi_xml (0.4.1)
     pry (0.9.8.4)
       coderay (~> 1.0.5)
       method_source (~> 0.7.1)
@@ -33,6 +38,7 @@ PLATFORMS
 DEPENDENCIES
   compass
   haml
+  httparty
   pry
   sass
   shotgun
