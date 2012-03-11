@@ -45,7 +45,7 @@ html, body {
   margin-left: 4px;
 }
 
-@media only screen and (max-width: 767px) {
+@media (max-width: 767px) {
   /* line 19, ../../scss/layout.scss */
   .container_12 .grid_4 {
     width: 100%;
