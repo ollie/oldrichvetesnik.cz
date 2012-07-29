@@ -1,8 +1,10 @@
+require 'bundler/setup'
+
 require 'sinatra'
 require 'haml'
 require 'httparty'
 require 'json'
-require 'pry'
+# require 'pry'
 require './lib/partials'
 require './lib/core_ext'
 
