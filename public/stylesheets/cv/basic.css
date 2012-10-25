@@ -30,14 +30,14 @@ p.nm {
 }
 
 /* * * * * *  nadpisy  * * * * * */
-/* line 11, ../../../scss/cv/basic.css.scss */
+/* line 10, ../../../scss/cv/basic.css.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 24px 0 0;
   font-size: 14px;
   color: black;
 }
 
-/* line 12, ../../../scss/cv/basic.css.scss */
+/* line 11, ../../../scss/cv/basic.css.scss */
 h1 {
   font-size: 36px;
   margin-top: 0;
@@ -45,13 +45,13 @@ h1 {
   font-weight: normal;
 }
 
-/* line 13, ../../../scss/cv/basic.css.scss */
+/* line 12, ../../../scss/cv/basic.css.scss */
 h2 {
   font-size: 20px;
   font-weight: normal;
 }
 
-/* line 14, ../../../scss/cv/basic.css.scss */
+/* line 13, ../../../scss/cv/basic.css.scss */
 h2.line {
   margin-bottom: 12px;
   padding-bottom: 12px;
@@ -59,37 +59,37 @@ h2.line {
   border-bottom: dotted 1px #ccc;
 }
 
-/* line 17, ../../../scss/cv/basic.css.scss */
+/* line 16, ../../../scss/cv/basic.css.scss */
 h2 + * {
   margin-top: 0;
 }
 
 /* * * * * *  seznamy  * * * * * */
-/* line 21, ../../../scss/cv/basic.css.scss */
+/* line 20, ../../../scss/cv/basic.css.scss */
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-/* line 22, ../../../scss/cv/basic.css.scss */
+/* line 21, ../../../scss/cv/basic.css.scss */
 ul li {
   list-style: none;
 }
 
-/* line 24, ../../../scss/cv/basic.css.scss */
+/* line 23, ../../../scss/cv/basic.css.scss */
 dl {
   margin: 0;
   padding: 0;
 }
 
-/* line 26, ../../../scss/cv/basic.css.scss */
+/* line 24, ../../../scss/cv/basic.css.scss */
 dl dd {
   margin: 0;
 }
 
 /* * * * * *  odkazy  * * * * * */
-/* line 30, ../../../scss/cv/basic.css.scss */
+/* line 28, ../../../scss/cv/basic.css.scss */
 a {
   padding: 3px 5px;
   text-decoration: none;
@@ -97,19 +97,19 @@ a {
   background: #33383f;
 }
 
-/* line 31, ../../../scss/cv/basic.css.scss */
+/* line 29, ../../../scss/cv/basic.css.scss */
 a:hover {
   color: #ed8917;
 }
 
 /* * * * * *  obrázky  * * * * * */
-/* line 35, ../../../scss/cv/basic.css.scss */
+/* line 33, ../../../scss/cv/basic.css.scss */
 img {
   border: none;
 }
 
 /* * * * * *  tabulky  * * * * * */
-/* line 39, ../../../scss/cv/basic.css.scss */
+/* line 37, ../../../scss/cv/basic.css.scss */
 table {
   width: 100%;
   font-size: 1em;
@@ -117,13 +117,13 @@ table {
   line-height: 23px;
 }
 
-/* line 40, ../../../scss/cv/basic.css.scss */
+/* line 38, ../../../scss/cv/basic.css.scss */
 table caption {
   border-bottom: solid 1px #dadada;
   background: #eee;
 }
 
-/* line 42, ../../../scss/cv/basic.css.scss */
+/* line 40, ../../../scss/cv/basic.css.scss */
 table th,
 table td {
   padding: 0 12px;
@@ -134,18 +134,18 @@ table td {
   font-size: 1em;
 }
 
-/* line 44, ../../../scss/cv/basic.css.scss */
+/* line 42, ../../../scss/cv/basic.css.scss */
 table th {
   font-weight: bold;
 }
 
-/* line 46, ../../../scss/cv/basic.css.scss */
+/* line 44, ../../../scss/cv/basic.css.scss */
 table th.nlb,
 table td.nlb {
   border-left: none;
 }
 
-/* line 48, ../../../scss/cv/basic.css.scss */
+/* line 46, ../../../scss/cv/basic.css.scss */
 table th.nrb,
 table td.nrb {
   border-right: none;

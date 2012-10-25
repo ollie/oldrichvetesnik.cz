@@ -1,4 +1,3 @@
-// 1 tab = 4 spaces
 // Global font-size, set only once.
 $fsz: 16px; // = 1em
 $family2: "Helvetica Neue", Helvetica, Arial, Freesans, Clean, sans-serif;
@@ -10,21 +9,21 @@ $family: Georgia, "Times New Roman", Times, serif;
 // $target-px: the size you want
 // $context: the font-size of the actual element. If font-size is not set it will be $fsz (see above) by default.
 @function em($target-px, $context: $fsz) {
-	@return ($target-px / $context) * 1em;
+  @return ($target-px / $context) * 1em;
 }
 
 @mixin box-sizing($sizing) {
-	-moz-box-sizing:    $sizing;
-	-webkit-box-sizing: $sizing;
-	-o-box-sizing:      $sizing;
-	-ms-box-sizing:     $sizing;
-	box-sizing:         $sizing;
+  -moz-box-sizing:    $sizing;
+  -webkit-box-sizing: $sizing;
+  -o-box-sizing:      $sizing;
+  -ms-box-sizing:     $sizing;
+  box-sizing:         $sizing;
 }
 
 @mixin transition($transition) {
-	-moz-transition:    $transition;
-	-webkit-transition: $transition;
-	-o-transition:      $transition;
-	-ms-transition:     $transition;
-	transition:         $transition;
+  -moz-transition:    $transition;
+  -webkit-transition: $transition;
+  -o-transition:      $transition;
+  -ms-transition:     $transition;
+  transition:         $transition;
 }

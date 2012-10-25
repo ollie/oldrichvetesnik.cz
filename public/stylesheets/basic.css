@@ -1,83 +1,83 @@
 @charset "UTF-8";
-/* line 4, ../../scss/basic.scss */
+/* line 3, ../../scss/basic.scss */
 html {
   font: 1em/1.5em Georgia, "Times New Roman", Times, serif;
   color: #222;
   background: white;
 }
 
-/* line 6, ../../scss/basic.scss */
+/* line 5, ../../scss/basic.scss */
 h1 {
-  margin: 0 0 0.444em;
+  margin: 0 0 0.44444em;
   font-size: 2.25em;
   color: #444;
   line-height: normal;
   font-weight: normal;
 }
 
-/* line 8, ../../scss/basic.scss */
+/* line 7, ../../scss/basic.scss */
 h2 {
-  margin: 1em 0 0.667em;
+  margin: 1em 0 0.66667em;
   font-size: 1.5em;
   font-weight: normal;
 }
 
-/* line 9, ../../scss/basic.scss */
+/* line 8, ../../scss/basic.scss */
 h3, h4, h5, h6 {
-  margin: 1.333em 0 0.889em;
+  margin: 1.33333em 0 0.88889em;
   font-size: 1.125em;
 }
 
-/* line 12, ../../scss/basic.scss */
+/* line 11, ../../scss/basic.scss */
 h2 small, h3 small {
-  font-size: 0.667em;
+  font-size: 0.66667em;
   line-height: 1;
 }
-/* line 14, ../../scss/basic.scss */
+/* line 13, ../../scss/basic.scss */
 h2 small a, h3 small a {
   margin-left: 8px;
   color: #aaa;
   text-decoration: none;
 }
-/* line 17, ../../scss/basic.scss */
+/* line 16, ../../scss/basic.scss */
 h2 small a:hover, h2 small a:focus, h3 small a:hover, h3 small a:focus {
   color: blue;
   text-decoration: underline;
 }
 
-/* line 22, ../../scss/basic.scss */
+/* line 21, ../../scss/basic.scss */
 p, ul, ol, dl, pre {
   margin: 1em 0;
 }
 
-/* line 24, ../../scss/basic.scss */
+/* line 23, ../../scss/basic.scss */
 ul {
   padding: 0;
   list-style: none;
 }
-/* line 26, ../../scss/basic.scss */
+/* line 25, ../../scss/basic.scss */
 ul li {
   padding-left: 1.5em;
-  background: url(/images/gfx/list-item.gif) 0.5em 0.563em no-repeat;
+  background: url(/images/gfx/list-item.gif) 0.5em 0.5625em no-repeat;
 }
 
-/* line 28, ../../scss/basic.scss */
+/* line 27, ../../scss/basic.scss */
 ol {
   margin-left: 2.5em;
   padding: 0;
 }
 
-/* line 30, ../../scss/basic.scss */
+/* line 29, ../../scss/basic.scss */
 a {
   color: blue;
 }
 
-/* line 36, ../../scss/basic.scss */
+/* line 33, ../../scss/basic.scss */
 q:lang(cs) {
   quotes: '„' '“' '‚' '‘';
 }
 
-/* line 37, ../../scss/basic.scss */
+/* line 34, ../../scss/basic.scss */
 hr {
   height: 1px;
   margin: 2em 0;
@@ -86,7 +86,7 @@ hr {
   background: #dadada;
 }
 
-/* line 38, ../../scss/basic.scss */
+/* line 35, ../../scss/basic.scss */
 .clear {
   clear: both;
 }

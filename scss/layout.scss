@@ -1,20 +1,28 @@
-html, body						{ margin: 0; padding: 0; }
+@import 'config';
 
-.stripe							{ padding: 2em 0; }
-.stripe:nth-of-type(2n)			{ background: #eee; }
-.stripe:first-of-type			{ padding-top: 4em; }
-.stripe:last-of-type			{ padding-bottom: 4em; }
+html, body                { margin: 0; padding: 0; }
 
-.width							{ width: 80%; margin: 0 auto; }
+.stripe                   { padding: 2em 0; }
+.stripe:nth-of-type(2n)   { background: #eee; }
+.stripe:first-of-type     { padding-top: 4em; }
+.stripe:last-of-type      { padding-bottom: 4em; }
+
+.width                    { width: 80%; margin: 0 auto; }
 
 .loading {
-	img							{ margin-right: 5px; vertical-align: top; }
-	span						{ vertical-align: middle; }
+  img                     { margin-right: 5px; vertical-align: top; }
+  span                    { vertical-align: middle; }
 }
 
-.gravatar img					{ margin-left: 4px; }
+.gravatar img             { margin-left: 4px; }
+
+.mee {
+                            float: right; margin: 0 0 0 1em; line-height: 1;
+  img                     { margin: 0; }
+  .caption                { display: block; font-size: em(11px); color: #aaa; text-align: center; }
+}
 
 @media screen and (max-width: 767px) 
 {
-	.container_12 .grid_4		{ width: 100%; }
+  .container_12 .grid_4   { width: 100%; }
 }

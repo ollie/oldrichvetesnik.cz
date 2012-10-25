@@ -70,11 +70,11 @@ body {
 /* * * * * *  Grid settings  * * * * * */
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_1 {
-  margin-left: 8.333%;
+  margin-left: 8.33333%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_2 {
-  margin-left: 16.667%;
+  margin-left: 16.66667%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_3 {
@@ -82,11 +82,11 @@ body {
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_4 {
-  margin-left: 33.333%;
+  margin-left: 33.33333%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_5 {
-  margin-left: 41.667%;
+  margin-left: 41.66667%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_6 {
@@ -94,11 +94,11 @@ body {
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_7 {
-  margin-left: 58.333%;
+  margin-left: 58.33333%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_8 {
-  margin-left: 66.667%;
+  margin-left: 66.66667%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_9 {
@@ -106,19 +106,19 @@ body {
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_10 {
-  margin-left: 83.333%;
+  margin-left: 83.33333%;
 }
 /* line 78, ../../scss/fluid-grid-system-12.scss */
 .container_12 .prefix_11 {
-  margin-left: 91.667%;
+  margin-left: 91.66667%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_1 {
-  margin-right: 8.333%;
+  margin-right: 8.33333%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_2 {
-  margin-right: 16.667%;
+  margin-right: 16.66667%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_3 {
@@ -126,11 +126,11 @@ body {
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_4 {
-  margin-right: 33.333%;
+  margin-right: 33.33333%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_5 {
-  margin-right: 41.667%;
+  margin-right: 41.66667%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_6 {
@@ -138,11 +138,11 @@ body {
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_7 {
-  margin-right: 58.333%;
+  margin-right: 58.33333%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_8 {
-  margin-right: 66.667%;
+  margin-right: 66.66667%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_9 {
@@ -150,19 +150,19 @@ body {
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_10 {
-  margin-right: 83.333%;
+  margin-right: 83.33333%;
 }
 /* line 79, ../../scss/fluid-grid-system-12.scss */
 .container_12 .suffix_11 {
-  margin-right: 91.667%;
+  margin-right: 91.66667%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_1 {
-  left: 8.333%;
+  left: 8.33333%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_2 {
-  left: 16.667%;
+  left: 16.66667%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_3 {
@@ -170,11 +170,11 @@ body {
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_4 {
-  left: 33.333%;
+  left: 33.33333%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_5 {
-  left: 41.667%;
+  left: 41.66667%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_6 {
@@ -182,11 +182,11 @@ body {
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_7 {
-  left: 58.333%;
+  left: 58.33333%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_8 {
-  left: 66.667%;
+  left: 66.66667%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_9 {
@@ -194,19 +194,19 @@ body {
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_10 {
-  left: 83.333%;
+  left: 83.33333%;
 }
 /* line 80, ../../scss/fluid-grid-system-12.scss */
 .container_12 .push_11 {
-  left: 91.667%;
+  left: 91.66667%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_1 {
-  left: -8.333%;
+  left: -8.33333%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_2 {
-  left: -16.667%;
+  left: -16.66667%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_3 {
@@ -214,11 +214,11 @@ body {
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_4 {
-  left: -33.333%;
+  left: -33.33333%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_5 {
-  left: -41.667%;
+  left: -41.66667%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_6 {
@@ -226,11 +226,11 @@ body {
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_7 {
-  left: -58.333%;
+  left: -58.33333%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_8 {
-  left: -66.667%;
+  left: -66.66667%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_9 {
@@ -238,15 +238,15 @@ body {
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_10 {
-  left: -83.333%;
+  left: -83.33333%;
 }
 /* line 81, ../../scss/fluid-grid-system-12.scss */
 .container_12 .pull_11 {
-  left: -91.667%;
+  left: -91.66667%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_1 {
-  width: 8.333%;
+  width: 8.33333%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_1 > .content {
@@ -259,7 +259,7 @@ body {
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_2 {
-  width: 16.667%;
+  width: 16.66667%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_2 > .content {
@@ -296,16 +296,16 @@ body {
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .content {
-  padding-left: 4.167%;
-  padding-right: 4.167%;
+  padding-left: 4.16667%;
+  padding-right: 4.16667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .grid_1 {
-  width: 33.333%;
+  width: 33.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .grid_2 {
-  width: 66.667%;
+  width: 66.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .grid_3 {
@@ -313,39 +313,39 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .prefix_1 {
-  margin-left: 33.333%;
+  margin-left: 33.33333%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .prefix_2 {
-  margin-left: 66.667%;
+  margin-left: 66.66667%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .suffix_1 {
-  margin-right: 33.333%;
+  margin-right: 33.33333%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .suffix_2 {
-  margin-right: 66.667%;
+  margin-right: 66.66667%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .push_1 {
-  left: 33.333%;
+  left: 33.33333%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .push_2 {
-  left: 66.667%;
+  left: 66.66667%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .pull_1 {
-  left: -33.333%;
+  left: -33.33333%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_3 > .pull_2 {
-  left: -66.667%;
+  left: -66.66667%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_4 {
-  width: 33.333%;
+  width: 33.33333%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_4 > .content {
@@ -418,7 +418,7 @@ body {
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_5 {
-  width: 41.667%;
+  width: 41.66667%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_5 > .content {
@@ -515,16 +515,16 @@ body {
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .content {
-  padding-left: 2.083%;
-  padding-right: 2.083%;
+  padding-left: 2.08333%;
+  padding-right: 2.08333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_1 {
-  width: 16.667%;
+  width: 16.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_2 {
-  width: 33.333%;
+  width: 33.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_3 {
@@ -532,11 +532,11 @@ body {
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_4 {
-  width: 66.667%;
+  width: 66.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_5 {
-  width: 83.333%;
+  width: 83.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .grid_6 {
@@ -544,11 +544,11 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .prefix_1 {
-  margin-left: 16.667%;
+  margin-left: 16.66667%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .prefix_2 {
-  margin-left: 33.333%;
+  margin-left: 33.33333%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .prefix_3 {
@@ -556,19 +556,19 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .prefix_4 {
-  margin-left: 66.667%;
+  margin-left: 66.66667%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .prefix_5 {
-  margin-left: 83.333%;
+  margin-left: 83.33333%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .suffix_1 {
-  margin-right: 16.667%;
+  margin-right: 16.66667%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .suffix_2 {
-  margin-right: 33.333%;
+  margin-right: 33.33333%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .suffix_3 {
@@ -576,19 +576,19 @@ body {
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .suffix_4 {
-  margin-right: 66.667%;
+  margin-right: 66.66667%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .suffix_5 {
-  margin-right: 83.333%;
+  margin-right: 83.33333%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .push_1 {
-  left: 16.667%;
+  left: 16.66667%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .push_2 {
-  left: 33.333%;
+  left: 33.33333%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .push_3 {
@@ -596,19 +596,19 @@ body {
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .push_4 {
-  left: 66.667%;
+  left: 66.66667%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .push_5 {
-  left: 83.333%;
+  left: 83.33333%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .pull_1 {
-  left: -16.667%;
+  left: -16.66667%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .pull_2 {
-  left: -33.333%;
+  left: -33.33333%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .pull_3 {
@@ -616,44 +616,44 @@ body {
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .pull_4 {
-  left: -66.667%;
+  left: -66.66667%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_6 > .pull_5 {
-  left: -83.333%;
+  left: -83.33333%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 {
-  width: 58.333%;
+  width: 58.33333%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .content {
-  padding-left: 1.786%;
-  padding-right: 1.786%;
+  padding-left: 1.78571%;
+  padding-right: 1.78571%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_1 {
-  width: 14.286%;
+  width: 14.28571%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_2 {
-  width: 28.571%;
+  width: 28.57143%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_3 {
-  width: 42.857%;
+  width: 42.85714%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_4 {
-  width: 57.143%;
+  width: 57.14286%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_5 {
-  width: 71.429%;
+  width: 71.42857%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_6 {
-  width: 85.714%;
+  width: 85.71429%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .grid_7 {
@@ -661,108 +661,108 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_1 {
-  margin-left: 14.286%;
+  margin-left: 14.28571%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_2 {
-  margin-left: 28.571%;
+  margin-left: 28.57143%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_3 {
-  margin-left: 42.857%;
+  margin-left: 42.85714%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_4 {
-  margin-left: 57.143%;
+  margin-left: 57.14286%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_5 {
-  margin-left: 71.429%;
+  margin-left: 71.42857%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .prefix_6 {
-  margin-left: 85.714%;
+  margin-left: 85.71429%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_1 {
-  margin-right: 14.286%;
+  margin-right: 14.28571%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_2 {
-  margin-right: 28.571%;
+  margin-right: 28.57143%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_3 {
-  margin-right: 42.857%;
+  margin-right: 42.85714%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_4 {
-  margin-right: 57.143%;
+  margin-right: 57.14286%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_5 {
-  margin-right: 71.429%;
+  margin-right: 71.42857%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .suffix_6 {
-  margin-right: 85.714%;
+  margin-right: 85.71429%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_1 {
-  left: 14.286%;
+  left: 14.28571%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_2 {
-  left: 28.571%;
+  left: 28.57143%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_3 {
-  left: 42.857%;
+  left: 42.85714%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_4 {
-  left: 57.143%;
+  left: 57.14286%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_5 {
-  left: 71.429%;
+  left: 71.42857%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .push_6 {
-  left: 85.714%;
+  left: 85.71429%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_1 {
-  left: -14.286%;
+  left: -14.28571%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_2 {
-  left: -28.571%;
+  left: -28.57143%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_3 {
-  left: -42.857%;
+  left: -42.85714%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_4 {
-  left: -57.143%;
+  left: -57.14286%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_5 {
-  left: -71.429%;
+  left: -71.42857%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_7 > .pull_6 {
-  left: -85.714%;
+  left: -85.71429%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_8 {
-  width: 66.667%;
+  width: 66.66667%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_8 > .content {
-  padding-left: 1.563%;
-  padding-right: 1.563%;
+  padding-left: 1.5625%;
+  padding-right: 1.5625%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_8 > .grid_1 {
@@ -914,40 +914,40 @@ body {
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .content {
-  padding-left: 1.389%;
-  padding-right: 1.389%;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_1 {
-  width: 11.111%;
+  width: 11.11111%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_2 {
-  width: 22.222%;
+  width: 22.22222%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_3 {
-  width: 33.333%;
+  width: 33.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_4 {
-  width: 44.444%;
+  width: 44.44444%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_5 {
-  width: 55.556%;
+  width: 55.55556%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_6 {
-  width: 66.667%;
+  width: 66.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_7 {
-  width: 77.778%;
+  width: 77.77778%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_8 {
-  width: 88.889%;
+  width: 88.88889%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .grid_9 {
@@ -955,135 +955,135 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_1 {
-  margin-left: 11.111%;
+  margin-left: 11.11111%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_2 {
-  margin-left: 22.222%;
+  margin-left: 22.22222%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_3 {
-  margin-left: 33.333%;
+  margin-left: 33.33333%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_4 {
-  margin-left: 44.444%;
+  margin-left: 44.44444%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_5 {
-  margin-left: 55.556%;
+  margin-left: 55.55556%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_6 {
-  margin-left: 66.667%;
+  margin-left: 66.66667%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_7 {
-  margin-left: 77.778%;
+  margin-left: 77.77778%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .prefix_8 {
-  margin-left: 88.889%;
+  margin-left: 88.88889%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_1 {
-  margin-right: 11.111%;
+  margin-right: 11.11111%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_2 {
-  margin-right: 22.222%;
+  margin-right: 22.22222%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_3 {
-  margin-right: 33.333%;
+  margin-right: 33.33333%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_4 {
-  margin-right: 44.444%;
+  margin-right: 44.44444%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_5 {
-  margin-right: 55.556%;
+  margin-right: 55.55556%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_6 {
-  margin-right: 66.667%;
+  margin-right: 66.66667%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_7 {
-  margin-right: 77.778%;
+  margin-right: 77.77778%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .suffix_8 {
-  margin-right: 88.889%;
+  margin-right: 88.88889%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_1 {
-  left: 11.111%;
+  left: 11.11111%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_2 {
-  left: 22.222%;
+  left: 22.22222%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_3 {
-  left: 33.333%;
+  left: 33.33333%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_4 {
-  left: 44.444%;
+  left: 44.44444%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_5 {
-  left: 55.556%;
+  left: 55.55556%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_6 {
-  left: 66.667%;
+  left: 66.66667%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_7 {
-  left: 77.778%;
+  left: 77.77778%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .push_8 {
-  left: 88.889%;
+  left: 88.88889%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_1 {
-  left: -11.111%;
+  left: -11.11111%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_2 {
-  left: -22.222%;
+  left: -22.22222%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_3 {
-  left: -33.333%;
+  left: -33.33333%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_4 {
-  left: -44.444%;
+  left: -44.44444%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_5 {
-  left: -55.556%;
+  left: -55.55556%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_6 {
-  left: -66.667%;
+  left: -66.66667%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_7 {
-  left: -77.778%;
+  left: -77.77778%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_9 > .pull_8 {
-  left: -88.889%;
+  left: -88.88889%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_10 {
-  width: 83.333%;
+  width: 83.33333%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_10 > .content {
@@ -1276,52 +1276,52 @@ body {
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 {
-  width: 91.667%;
+  width: 91.66667%;
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .content {
-  padding-left: 1.136%;
-  padding-right: 1.136%;
+  padding-left: 1.13636%;
+  padding-right: 1.13636%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_1 {
-  width: 9.091%;
+  width: 9.09091%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_2 {
-  width: 18.182%;
+  width: 18.18182%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_3 {
-  width: 27.273%;
+  width: 27.27273%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_4 {
-  width: 36.364%;
+  width: 36.36364%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_5 {
-  width: 45.455%;
+  width: 45.45455%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_6 {
-  width: 54.545%;
+  width: 54.54545%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_7 {
-  width: 63.636%;
+  width: 63.63636%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_8 {
-  width: 72.727%;
+  width: 72.72727%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_9 {
-  width: 81.818%;
+  width: 81.81818%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_10 {
-  width: 90.909%;
+  width: 90.90909%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .grid_11 {
@@ -1329,163 +1329,163 @@ body {
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_1 {
-  margin-left: 9.091%;
+  margin-left: 9.09091%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_2 {
-  margin-left: 18.182%;
+  margin-left: 18.18182%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_3 {
-  margin-left: 27.273%;
+  margin-left: 27.27273%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_4 {
-  margin-left: 36.364%;
+  margin-left: 36.36364%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_5 {
-  margin-left: 45.455%;
+  margin-left: 45.45455%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_6 {
-  margin-left: 54.545%;
+  margin-left: 54.54545%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_7 {
-  margin-left: 63.636%;
+  margin-left: 63.63636%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_8 {
-  margin-left: 72.727%;
+  margin-left: 72.72727%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_9 {
-  margin-left: 81.818%;
+  margin-left: 81.81818%;
 }
 /* line 93, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .prefix_10 {
-  margin-left: 90.909%;
+  margin-left: 90.90909%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_1 {
-  margin-right: 9.091%;
+  margin-right: 9.09091%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_2 {
-  margin-right: 18.182%;
+  margin-right: 18.18182%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_3 {
-  margin-right: 27.273%;
+  margin-right: 27.27273%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_4 {
-  margin-right: 36.364%;
+  margin-right: 36.36364%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_5 {
-  margin-right: 45.455%;
+  margin-right: 45.45455%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_6 {
-  margin-right: 54.545%;
+  margin-right: 54.54545%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_7 {
-  margin-right: 63.636%;
+  margin-right: 63.63636%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_8 {
-  margin-right: 72.727%;
+  margin-right: 72.72727%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_9 {
-  margin-right: 81.818%;
+  margin-right: 81.81818%;
 }
 /* line 94, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .suffix_10 {
-  margin-right: 90.909%;
+  margin-right: 90.90909%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_1 {
-  left: 9.091%;
+  left: 9.09091%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_2 {
-  left: 18.182%;
+  left: 18.18182%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_3 {
-  left: 27.273%;
+  left: 27.27273%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_4 {
-  left: 36.364%;
+  left: 36.36364%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_5 {
-  left: 45.455%;
+  left: 45.45455%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_6 {
-  left: 54.545%;
+  left: 54.54545%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_7 {
-  left: 63.636%;
+  left: 63.63636%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_8 {
-  left: 72.727%;
+  left: 72.72727%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_9 {
-  left: 81.818%;
+  left: 81.81818%;
 }
 /* line 95, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .push_10 {
-  left: 90.909%;
+  left: 90.90909%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_1 {
-  left: -9.091%;
+  left: -9.09091%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_2 {
-  left: -18.182%;
+  left: -18.18182%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_3 {
-  left: -27.273%;
+  left: -27.27273%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_4 {
-  left: -36.364%;
+  left: -36.36364%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_5 {
-  left: -45.455%;
+  left: -45.45455%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_6 {
-  left: -54.545%;
+  left: -54.54545%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_7 {
-  left: -63.636%;
+  left: -63.63636%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_8 {
-  left: -72.727%;
+  left: -72.72727%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_9 {
-  left: -81.818%;
+  left: -81.81818%;
 }
 /* line 96, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_11 > .pull_10 {
-  left: -90.909%;
+  left: -90.90909%;
 }
 /* line 86, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 {
@@ -1493,16 +1493,16 @@ body {
 }
 /* line 88, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .content {
-  padding-left: 1.042%;
-  padding-right: 1.042%;
+  padding-left: 1.04167%;
+  padding-right: 1.04167%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_1 {
-  width: 8.333%;
+  width: 8.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_2 {
-  width: 16.667%;
+  width: 16.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_3 {
@@ -1510,11 +1510,11 @@ body {
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_4 {
-  width: 33.333%;
+  width: 33.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_5 {
-  width: 41.667%;
+  width: 41.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_6 {
@@ -1522,11 +1522,11 @@ body {
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_7 {
-  width: 58.333%;
+  width: 58.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_8 {
-  width: 66.667%;
+  width: 66.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_9 {
@@ -1534,11 +1534,11 @@ body {
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_10 {
-  width: 83.333%;
+  width: 83.33333%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_11 {
-  width: 91.667%;
+  width: 91.66667%;
 }
 /* line 90, ../../scss/fluid-grid-system-12.scss */
 .container_12 .grid_12 > .grid_12 {
