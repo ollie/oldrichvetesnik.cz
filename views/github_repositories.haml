@@ -5,4 +5,4 @@
         %ul
           - group.each do |repo|
             %li
-              %a{ :href => repo[:html_url], :rel => 'nofollow' }= repo[:name]
+              %a{ href: repo[:html_url], rel: 'nofollow' }= repo[:name]

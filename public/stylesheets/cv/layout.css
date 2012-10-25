@@ -1,0 +1,103 @@
+/* * * * * *  sloupce  * * * * * */
+/* line 2, ../../../scss/cv/layout.css.scss */
+.columns {
+  width: 100%;
+}
+
+/* line 3, ../../../scss/cv/layout.css.scss */
+.columns .col2 {
+  display: inline;
+  float: left;
+  width: 387px;
+  margin-bottom: 24px;
+}
+
+/* line 4, ../../../scss/cv/layout.css.scss */
+.columns .right {
+  float: right;
+}
+
+/* line 5, ../../../scss/cv/layout.css.scss */
+.columns .col3 {
+  display: inline;
+  float: left;
+  width: 250px;
+  margin: 0 25px 24px 0;
+}
+
+/* line 6, ../../../scss/cv/layout.css.scss */
+.columns .last {
+  margin-right: 0;
+}
+
+/* line 8, ../../../scss/cv/layout.css.scss */
+.columns .col h3,
+.columns .col h2 {
+  margin-top: 0;
+}
+
+/* line 9, ../../../scss/cv/layout.css.scss */
+.columns .col p {
+  margin-bottom: 0;
+}
+
+/* line 11, ../../../scss/cv/layout.css.scss */
+.CV {
+  width: 800px;
+  margin: 30px auto;
+  /*background: url(../images/gfx/grid.gif) 0 0 repeat;*/
+}
+
+/* line 13, ../../../scss/cv/layout.css.scss */
+p.mainFoto {
+  display: inline;
+  float: right;
+  margin: 0;
+  line-height: 0;
+}
+
+/* line 14, ../../../scss/cv/layout.css.scss */
+p.mainFoto img {
+  padding: 3px;
+  border: solid 5px #e5e5e5;
+}
+
+/* line 16, ../../../scss/cv/layout.css.scss */
+dl.floatDt dt {
+  display: inline;
+  float: left;
+  clear: left;
+  width: 170px;
+}
+
+/* line 17, ../../../scss/cv/layout.css.scss */
+dl.floatDt dd {
+  margin: 0 0 24px;
+  padding-left: 180px;
+}
+
+/* line 19, ../../../scss/cv/layout.css.scss */
+dl.floatDt2 dt {
+  width: 120px;
+}
+
+/* line 20, ../../../scss/cv/layout.css.scss */
+dl.floatDt2 dd {
+  margin: 0;
+  padding-left: 120px;
+}
+
+/* line 22, ../../../scss/cv/layout.css.scss */
+dl.colons dt:after {
+  content: ':';
+}
+
+/* line 24, ../../../scss/cv/layout.css.scss */
+dl.main {
+  font-size: 17px;
+}
+
+/* line 25, ../../../scss/cv/layout.css.scss */
+dl.main dd {
+  margin: 0;
+}

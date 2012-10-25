@@ -1,0 +1,13 @@
+!!! 5
+%html{ lang: 'cs' }
+  %head
+    %meta{ charset: 'utf-8' }
+    %title Oldřich Vetešník (CV)
+    %link{ rel: 'stylesheet', href: '/stylesheets/cv/basic.css' }
+    %link{ rel: 'stylesheet', href: '/stylesheets/cv/layout.css' }
+    = partial 'application/head'
+  %body
+    .CV.columns
+      = yield
+
+    = partial 'application/analytics'
