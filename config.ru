@@ -1,6 +1,6 @@
-require 'bundler/setup'
+require 'bundler'
+Bundler.require
 
-require 'sinatra'
 require './app'
 
 root_dir = File.dirname(__FILE__)
