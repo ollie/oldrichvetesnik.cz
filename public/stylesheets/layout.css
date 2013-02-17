@@ -1,61 +1,50 @@
-/* line 3, ../../scss/layout.scss */
 html, body {
   margin: 0;
   padding: 0;
 }
 
-/* line 5, ../../scss/layout.scss */
+.wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 .stripe {
   padding: 2em 0;
 }
 
-/* line 6, ../../scss/layout.scss */
 .stripe:nth-of-type(2n) {
   background: #eee;
 }
 
-/* line 7, ../../scss/layout.scss */
 .stripe:first-of-type {
   padding-top: 4em;
 }
 
-/* line 8, ../../scss/layout.scss */
 .stripe:last-of-type {
   padding-bottom: 4em;
 }
 
-/* line 10, ../../scss/layout.scss */
 .width {
   width: 80%;
   margin: 0 auto;
 }
 
-/* line 13, ../../scss/layout.scss */
 .loading img {
   margin-right: 5px;
   vertical-align: top;
 }
-/* line 14, ../../scss/layout.scss */
 .loading span {
   vertical-align: middle;
 }
 
-/* line 17, ../../scss/layout.scss */
-.gravatar img {
-  margin-left: 4px;
-}
-
-/* line 19, ../../scss/layout.scss */
 .mee {
   float: right;
   margin: 0 0 0 1em;
   line-height: 1;
 }
-/* line 21, ../../scss/layout.scss */
 .mee img {
   margin: 0;
 }
-/* line 22, ../../scss/layout.scss */
 .mee .caption {
   display: block;
   font-size: 0.6875em;
@@ -63,9 +52,41 @@ html, body {
   text-align: center;
 }
 
+.image img {
+  width: 100%;
+  max-width: 321px;
+  vertical-align: middle;
+}
+.image a {
+  display: inline-block;
+  padding: 2px;
+  border: solid 5px #cccccc;
+  background: white;
+}
+.image a img {
+  -moz-filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.image a:hover, .image a:focus {
+  border-color: #aaa;
+}
+.image a:hover img, .image a:focus img {
+  -moz-filter: none;
+  -webkit-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
 @media screen and (max-width: 767px) {
-  /* line 27, ../../scss/layout.scss */
   .container_12 .grid_4 {
     width: 100%;
+  }
+
+  .mee {
+    display: none;
   }
 }

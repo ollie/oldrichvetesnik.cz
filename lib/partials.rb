@@ -15,5 +15,9 @@ module Sinatra
         haml(:"#{template}", options)
       end
     end
+
+    def current_env
+      ENV['RACK_ENV']
+    end
   end
 end

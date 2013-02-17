@@ -6,14 +6,10 @@ require './lib/partials'
 require './lib/core_ext'
 
 set :protection, except: :frame_options # Turn off the X-Frame-Options header to be able to display iframe contents
-set :haml, format: :html5, layout: :'layouts/application'
+set :haml, layout: :'layouts/application'
 
 helpers do
   include Sinatra::Partials
-end
-
-def current_env
-  ENV['RACK_ENV']
 end
 
 get '/' do

@@ -1,6 +1,7 @@
 @import 'config';
 
 html, body                { margin: 0; padding: 0; }
+.wrapper                  { max-width: 1280px; margin: 0 auto; }
 
 .stripe                   { padding: 2em 0; }
 .stripe:nth-of-type(2n)   { background: #eee; }
@@ -14,15 +15,30 @@ html, body                { margin: 0; padding: 0; }
   span                    { vertical-align: middle; }
 }
 
-.gravatar img             { margin-left: 4px; }
-
 .mee {
                             float: right; margin: 0 0 0 1em; line-height: 1;
   img                     { margin: 0; }
   .caption                { display: block; font-size: em(11px); color: #aaa; text-align: center; }
 }
 
-@media screen and (max-width: 767px) 
+.image {
+  img {
+                            width: 100%; max-width: 321px; vertical-align: middle;
+  }
+  a {
+                            display: inline-block; padding: 2px; border: solid 5px #ccc; background: white;
+    img                   { @include filter(grayscale(100%)); }
+    &:hover,
+    &:focus {
+                            border-color: #aaa;
+      img                 { @include filter(none); }
+    }
+  }
+
+}
+
+@media screen and (max-width: 767px)
 {
   .container_12 .grid_4   { width: 100%; }
+  .mee                    { display: none; }
 }

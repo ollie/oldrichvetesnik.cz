@@ -27,3 +27,11 @@ $family: Georgia, "Times New Roman", Times, serif;
   -ms-transition:     $transition;
   transition:         $transition;
 }
+
+@mixin filter($filter) {
+  -moz-filter:    $filter;
+  -webkit-filter: $filter;
+  -o-filter:      $filter;
+  -ms-filter:     $filter;
+  filter:         $filter;
+}
