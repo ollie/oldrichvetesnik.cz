@@ -47,7 +47,7 @@ h2.line {
   margin-bottom: 12px;
   padding-bottom: 12px;
   line-height: 23px;
-  border-bottom: dotted 1px #cccccc;
+  border-bottom: dotted 1px #ccc;
 }
 
 h2 + * {

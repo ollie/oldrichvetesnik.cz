@@ -60,7 +60,7 @@ html, body {
 .image a {
   display: inline-block;
   padding: 2px;
-  border: solid 5px #cccccc;
+  border: solid 5px #ccc;
   background: white;
 }
 .image a img {
