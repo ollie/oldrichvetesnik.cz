@@ -1,3 +1,4 @@
 /.sass-cache
 /log/*.log
 /tmp
+/config/deploy.rb

@@ -8,4 +8,5 @@ group :development do
   gem 'shotgun'
   gem 'compass'
   gem 'pry'
+  gem 'capistrano', '~> 2' # Deployment
 end
