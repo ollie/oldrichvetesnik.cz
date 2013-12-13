@@ -22,7 +22,7 @@ get '/cv' do
 end
 
 get '/github-repositories' do
-  data = JSON.parse HTTParty.get('https://api.github.com/users/ollie/repos').body
+  data = JSON.parse HTTParty.get('https://api.github.com/users/ollie/repos', headers: { 'User-Agent' => 'ollie/oldrichvetesnik.cz' }).body
 
   @repos = data.map do |item|
     tmp = {}
