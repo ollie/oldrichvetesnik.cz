@@ -10,14 +10,11 @@
           %h1 Oldřich Vetešník
 
           %p
-            I am a web developer <a href="http://maps.google.com/maps?q=Hradec+Kr%C3%A1lov%C3%A9,+%C4%8Cesk%C3%A1+republika&amp;hl=en&amp;ie=UTF8&amp;sll=37.027424,-112.420232&amp;sspn=40.222514,112.5&amp;oq=Hrad&amp;t=w&amp;hnear=Hradec+Kr%C3%A1lov%C3%A9,+Czech+Republic&amp;z=4" rel="nofollow" title="Look me up on the map">from the Czech Republic</a>,
-            usually building web applications in <a href="http://rubyonrails.org/" rel="nofollow">Rails</a>, simple tools in <a href="http://www.ruby-lang.org/en/" rel="nofollow">Ruby</a>
-            and sometimes in PHP (from which I try to escape). Besides that I like to get better at Python, Java, Haskell and Erlang as well as designing with JavaScript, HTML and SCSS.
-            I&nbsp;try to write serious things on my <a href="http://blog.oldrichvetesnik.cz/">blog</a> and nonsense on <a href="http://www.mrmil.cz/">Mrmil.cz</a> (although I don't write much).
+            Hi, I am a Ruby web developer from <a href="https://www.google.cz/maps/place/Hradec+Králové/@50.2139194,15.8411428,13z" rel="nofollow" title="Look me up on the map">Hradec Králové</a>, Czech Republic. During the day I work for <a href="http://www.tapmates.com/">Tapmates</a> and&nbsp;the rest for my son. :-)
 
           %h2 Highlights
 
-          %p Here are a few things I have done and might be useful to you:
+          %p There are a few things I wrote that may be useful to somebody:
       .clear
 
 .stripe
@@ -26,9 +23,27 @@
       .grid.grid_4
         .content
           %h3
+            %a{ href: 'https://github.com/ollie/after_ship' } AfterShip
+          %p A smallish (Ruby) library to talking to AfterShip via v4 API.
+
+      .grid.grid_4
+        .content
+          %h3
+            %a{ href: 'https://github.com/ollie/geo-mercator' } Geo Mercator
+          %p This is just a tiny library which abstracts away working with GPS points and bounds on the Mercator map.
+
+      .grid.grid_4
+        .content
+          %h3
+            %a{ href: 'https://github.com/ollie/k_means_pp' } KMeansPP
+          %p This is a Ruby implementation of the k-means++ algorithm for data clustering. In other words: Grouping a bunch of X, Y points into K groups.
+
+      .clear
+
+      .grid.grid_4
+        .content
+          %h3
             %a{ href: 'https://github.com/ollie/hours' } Hours
-            %small
-              %a{ href: 'https://github.com/ollie/hours' } Source code
           %p.image
             %a{ href: '/images/content/hours-full.png' }
               %img{ src: '/images/content/hours-mini.png', alt: '' }
@@ -38,8 +53,6 @@
         .content
           %h3
             %a{ href: 'https://github.com/ollie/reminder-ruby' } Reminder
-            %small
-              %a{ href: 'https://github.com/ollie/reminder-ruby' } Source code
           %p.image
             %a{ href: '/images/content/reminder-full.png' }
               %img{ src: '/images/content/reminder-mini.png', alt: '' }
@@ -48,48 +61,11 @@
       .grid.grid_4
         .content
           %h3
-            %a{ href: 'http://responsive.oldrichvetesnik.cz/' } Responsive
-            %small
-              %a{ href: 'https://github.com/ollie/responsive' } Source code
-          %p.image
-            %a{ href: '/images/content/responsive-full.png' }
-              %img{ src: '/images/content/responsive-mini.png', alt: '' }
-          %p A simple HTML page to test other pages in different resolutions and/or User Agent strings.
-
-      .clear
-
-      .grid.grid_4
-        .content
-          %h3
-            %a{ href: 'https://github.com/ollie/whereisit ' } Where Is It?
-            %small
-              %a{ href: 'https://github.com/ollie/whereisit' } Source code
+            %a{ href: 'https://github.com/ollie/whereisit' } Where Is It?
           %p.image
             %a{ href: '/images/content/whereisit-full.png' }
               %img{ src: '/images/content/whereisit-mini.png', alt: '' }
           %p A simple Rails app for keeping track of projects with tags and ajax goodies. I often forget where what is so now I will know.
-
-      .grid.grid_4
-        .content
-          %h3
-            %a{ href: 'https://github.com/ollie/simpsons ' } Simpsons
-            %small
-              %a{ href: 'https://github.com/ollie/simpsons' } Source code
-          %p.image
-            %a{ href: '/images/content/simpsons-full.png' }
-              %img{ src: '/images/content/simpsons-mini.png', alt: '' }
-          %p Just a simple Rails app for keeping track of Simpsons episodes.
-
-      .grid.grid_4
-        .content
-          %h3
-            %a{ href: 'https://github.com/ollie/fluid_grid_system ' } Fluid Grid System
-            %small
-              %a{ href: 'https://github.com/ollie/fluid_grid_system' } Source code
-          %p.image
-            %a{ href: '/images/content/fgs-full.png' }
-              %img{ src: '/images/content/fgs-mini.png', alt: '' }
-          %p Fluid Grid System Based on 960 Grid System (<a href="http://960.gs/">http://960.gs/</a>) by Nathan Smith. Supports infinite nesting.
 
       .clear
 
