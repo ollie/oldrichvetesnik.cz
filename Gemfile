@@ -1,12 +1,12 @@
 source 'https://rubygems.org/'
 
-gem 'haml'
-gem 'sinatra'
-gem 'httparty'
+gem 'sinatra'  # Web framework
+gem 'haml'     # Templating
+gem 'typhoeus' # Network lib
+gem 'oj'       # JSON parser
 
 group :development do
-  gem 'shotgun'
-  gem 'compass'
-  gem 'pry'
+  gem 'compass' # SCSS
+  gem 'pry'     # Debug
   gem 'capistrano', '~> 2' # Deployment
 end
