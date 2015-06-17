@@ -9,5 +9,10 @@ gem 'oj'       # JSON parser
 group :development do
   gem 'compass' # SCSS
   gem 'pry'     # Debug
-  gem 'capistrano', '~> 2' # Deployment
+
+  # rbenv integration for Capistrano.
+  gem 'capistrano-rbenv', require: false
+
+  # Passenger support for Capistrano 3.x.
+  gem 'capistrano-passenger', require: false
 end
