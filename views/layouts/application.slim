@@ -1,0 +1,20 @@
+doctype 5
+html lang="cs"
+  head
+    meta charset="utf8"
+    title Oldřich Vetešník
+    link rel="stylesheet" href="/stylesheets/basic.css"
+    link rel="stylesheet" href="/stylesheets/fluid-grid-system-12.css"
+    link rel="stylesheet" href="/stylesheets/layout.css"
+    == partial_slim 'application/_head'
+    meta name="viewport" content="width=480"
+  body
+    == yield
+    == partial_slim 'application/_github'
+    == partial_slim 'application/_footer', year: year
+
+    script src="/javascripts/jquery-2.1.4.min.js"
+    script src="/javascripts/jquery.github.js"
+    script src="/javascripts/application.js"
+
+    == partial_slim 'application/_analytics'

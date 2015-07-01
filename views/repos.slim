@@ -1,0 +1,8 @@
+- if repos
+  - repos.each do |group|
+    .grid.grid_4
+      .content
+        ul
+          - group.each do |repo|
+            li
+              a href=repo[:html_url] rel="nofollow" = repo[:name]

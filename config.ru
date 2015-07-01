@@ -1,17 +1,8 @@
 require 'bundler'
-Bundler.require
 
-require './app'
+ENV['RACK_ENV'] ||= 'development'
+Bundler.require(:default, ENV['RACK_ENV'])
 
-root_dir = File.dirname(__FILE__)
+require_relative 'app'
 
-set :environment, :production
-set :root,  root_dir
-disable :run
-set :raise_errors, true
-
-FileUtils.mkdir_p 'log' unless File.exists?('log')
-log = File.new('log/sinatra.log', 'a')
-$stderr.reopen(log)
-
-run Sinatra::Application
+run App

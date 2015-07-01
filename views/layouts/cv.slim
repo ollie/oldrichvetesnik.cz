@@ -1,0 +1,13 @@
+doctype 5
+html lang="cs"
+  head
+    meta charset="utf8"
+    title Oldřich Vetešník (CV)
+    link rel="stylesheet" href="/stylesheets/cv/basic.css"
+    link rel="stylesheet" href="/stylesheets/cv/layout.css"
+    == partial_slim 'application/_head'
+  body
+    .CV.columns
+      == yield
+
+    == partial_slim 'application/_analytics'

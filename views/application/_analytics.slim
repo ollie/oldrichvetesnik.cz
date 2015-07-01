@@ -1,5 +1,5 @@
-- if current_env == 'production'
-  :javascript
+- if settings.production?
+  javascript:
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-3063799-9']);
     _gaq.push(['_trackPageview']);
