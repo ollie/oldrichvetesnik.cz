@@ -25,6 +25,9 @@ group :development do
   # rbenv integration for Capistrano.
   gem 'capistrano-rbenv', require: false
 
+  # Bundler support for Capistrano 3.x.
+  gem 'capistrano-bundler', require: false
+
   # Passenger support for Capistrano 3.x.
   gem 'capistrano-passenger', require: false
 
