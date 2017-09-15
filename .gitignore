@@ -2,3 +2,5 @@
 /coverage
 /config/deploy
 /config/deploy.rb
+/log
+/ideas.txt
