@@ -22,6 +22,8 @@ gem 'multi_json'
 gem 'oj'
 
 group :development do
+  gem 'puma', require: false
+
   # rbenv integration for Capistrano.
   gem 'capistrano-rbenv', require: false
 
