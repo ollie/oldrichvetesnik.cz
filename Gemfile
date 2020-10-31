@@ -36,6 +36,9 @@ group :development do
   # Compass is a Sass-based Stylesheet Framework that streamlines the creation
   # and maintenance of CSS.
   gem 'compass'
+
+  gem 'ed25519', require: false      # Required for Capistrano to work with ed25519 key.
+  gem 'bcrypt_pbkdf', require: false # Required for Capistrano to work with ed25519 key.
 end
 
 group :development, :test do
