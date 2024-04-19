@@ -27,6 +27,12 @@ class App < Sinatra::Base
     slim :cv, layout: :'layouts/cv', locals: { year: year }
   end
 
+  get '/cv_en' do
+    year = Date.today.year
+    slim :cv_en, layout: :'layouts/cv', locals: { year: year }
+  end
+
+
   get '/github-repositories' do
     repos = Repo.all
     slim :repos, layout: false, locals: { repos: repos }
