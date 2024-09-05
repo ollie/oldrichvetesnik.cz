@@ -21,6 +21,8 @@ gem 'multi_json'
 # The fastest JSON parser and object serializer.
 gem 'oj'
 
+gem 'logger'
+
 group :development do
   gem 'puma', require: false
 
