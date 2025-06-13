@@ -46,6 +46,7 @@ end
 group :development, :test do
   # An IRB alternative and runtime developer console.
   gem 'pry'
+  gem 'reline', require: false
 end
 
 group :test do
